@@ -1,8 +1,12 @@
-var angka = prompt('Masukkan angka: ');
-if (angka % 2 === 0) {
-    alert(angka + ' adalah bilangan genap');
-}else if (angka % 2 === 1) {
-    alert(angka + ' adalah bilangan ganjil');
-}else {
-    alert('Yang anda masukkan bukan angka');
+var nama = prompt('Masukkan nama:');
+switch (nama) {
+    case 'dul':
+    case 'Dul':
+    case 'DUL':
+    case 'teungku':
+        alert('Halo kayaknya nama asli kamu TEUNGKU ZULKIFLI ya nggak ?');
+        break;
+    default:
+        alert('Oy ' + nama + ' kamu jangan lupa makan ya!');
+        break;
 }
