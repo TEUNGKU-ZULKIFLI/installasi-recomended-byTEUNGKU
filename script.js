@@ -1,3 +1,6 @@
-for (var nilaiAwal = 1; nilaiAwal <= 10; nilaiAwal++) {
-    console.log('Hello Word! ' + nilaiAwal + ' x');
+var angka = prompt('Masukkan angka: ');
+if (angka % 2 === 0) {
+    alert(angka + ' adalah bilangan genap');
+}else{
+    alert(angka + ' adalah bilangan ganjil');
 }
