@@ -1,11 +1,6 @@
-alert ('SELAMAT DATANG !');
-var lagi = true;
-
-while (lagi) {  // bisa juga ditulis: while (lagi == true)
-    var nama = prompt('Masukkan nama: ');
-    alert('Halo ' + nama);
-
-    lagi = confirm('Coba lagi ?');
+var angka = prompt('Masukkan angka: ');
+if (angka % 2 === 0) {
+    alert(angka + ' adalah bilangan GENAP');
+}else{
+    alert(angka + ' adalah bilangan GANJIL');
 }
-
-alert('Terima kasih…');
