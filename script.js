@@ -1,4 +1,1 @@
-alert ("Hello, World!");
-alert ("Nama saya");
-alert ("TEUNGKU");
-alert ("Saya belajar JavaScript");
+prompt ("masukkan nama anda: ");
