@@ -1,5 +1,6 @@
 var nilaiAwal = 1;
-while (nilaiAwal <= 10) {
+var nilaiAkhir = 10;
+while (nilaiAwal <= nilaiAkhir) {
     console.log('Hello World ' + nilaiAwal + 'x');
     nilaiAwal++;
 }
