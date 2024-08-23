@@ -1,6 +1,5 @@
-var angka = prompt('Masukkan angka: ');
-if (angka % 2 === 0) {
-    alert(angka + ' adalah bilangan GENAP');
-}else{
-    alert(angka + ' adalah bilangan GANJIL');
+var nilaiAwal = 1;
+while (nilaiAwal <= 10) {
+    console.log('Hello World ' + nilaiAwal + 'x');
+    nilaiAwal++;
 }
