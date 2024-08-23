@@ -1,3 +1,4 @@
-var x= 10;
-console.log("Hello World!");
-console.log("variable x adalah: " + x);
+alert ("Hello, World!");
+alert ("Nama saya");
+alert ("TEUNGKU");
+alert ("Saya belajar JavaScript");
