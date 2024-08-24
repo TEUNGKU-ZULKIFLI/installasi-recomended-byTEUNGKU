@@ -1,9 +1,14 @@
-var s = '';
-for (var i = 10; i > 0; i--) {
-    for (var j = 0; j < i; j++) {
-        s += '*';
-    }
-    s += '\n';
+function jumlahDuaKubus (a, b) {
+    var volumeA;
+    var volumeB;
+    var total;
+
+    volumeA = a * a * a;
+    volumeB = b * b * b;
+
+    total = volumeA + volumeB;
+
+    return total;
 }
 
-console.log(s);
+alert(jumlahDuaKubus(8, 3)); // 521
