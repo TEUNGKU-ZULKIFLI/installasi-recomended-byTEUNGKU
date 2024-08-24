@@ -1,12 +1,9 @@
-var nama = prompt('Masukkan nama:');
-switch (nama) {
-    case 'dul':
-    case 'Dul':
-    case 'DUL':
-    case 'teungku':
-        alert('Halo kayaknya nama asli kamu TEUNGKU ZULKIFLI ya nggak ?');
-        break;
-    default:
-        alert('Oy ' + nama + ' kamu jangan lupa makan ya!');
-        break;
+var s = '';
+for (var i = 10; i > 0; i--) {
+    for (var j = 0; j < i; j++) {
+        s += '*';
+    }
+    s += '\n';
 }
+
+console.log(s);
