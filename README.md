@@ -1,3 +1,5 @@
+### **INSTALL LARAVER MELALUI XAMPP >> COMPOSER / MANUAL NO DOCKER-DOCKER **
+
 Jika kamu menggunakan **XAMPP** untuk mengembangkan aplikasi Laravel, ada beberapa hal yang perlu diperhatikan terkait konfigurasi dan instalasi. Berikut adalah panduan langkah demi langkah untuk mengatur Laravel dengan XAMPP.
 
 ### 1. **Persiapan XAMPP**
