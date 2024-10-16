@@ -1,5 +1,6 @@
-Untuk membuat sistem login aut token menggunakan Laravel dan JWT (JSON Web Token) di Laravel dengan menggunakan Laradock
-Note:"DATA USER & PASSWD DARI FILE database/seeders/UserSeeder.php" disarankan baca, teliti, dan telaah dulu 😊.
+# Untuk membuat sistem login aut token menggunakan Laravel dan JWT (JSON Web Token) di Laravel dengan menggunakan Laradock
+## Note:"DATA USER & PASSWD DARI FILE database/seeders/UserSeeder.php" disarankan baca, teliti, dan telaah dulu 😊.
+
 ### 01.Membuat file User Seeder dangan perintah php.
 
 masuk workspace
@@ -49,7 +50,7 @@ kemudian running artisan dengan perintah
 php artisan db:seed --class=UserSeeder
 ```
 
-### 2.Instalasi dan Konfigurasi JWT
+### 02.Instalasi dan Konfigurasi JWT
 Install JWT
 ```bash
 composer require tymon/jwt-auth
@@ -99,7 +100,7 @@ tambahkan kode ini
 ],
 ```
 
-### 3. Konfigurasi model user pada file app/Models/User.php
+### 03. Konfigurasi model user pada file app/Models/User.php
 ubah codingannya dengan berikut ini
 ```code
 <?php
@@ -163,7 +164,7 @@ class User extends Authenticatable implements JWTSubject
 }
 ```
 
-### 4. Membuat file Login Controller.php melalui artisan
+### 04. Membuat file Login Controller.php melalui artisan
 Buat LoginController: Jalankan perintah berikut untuk membuat controller
 ```bash
 php artisan make:controller Api/Admin/LoginController
@@ -241,7 +242,7 @@ class LoginController extends Controller
 }
 ```
 
-### 5. Mengonfigurasi file api.php
+### 05. Mengonfigurasi file api.php
 menginstall api.php melalui artisan
 ```bash
 php artisan install:api
@@ -269,5 +270,5 @@ Route::prefix('admin')->group(function () {
 });
 ```
 
-### 6. Menguji dengan postman
+### 06. Menguji dengan postman
 [![Tonton video](https://img.youtube.com/vi/I0yKa4g0i4g/0.jpg)](https://youtu.be/I0yKa4g0i4g)
