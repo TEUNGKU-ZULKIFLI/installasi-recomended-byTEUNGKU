@@ -340,4 +340,4 @@ php artisan db:seed
 ```
 
 ## **07.Menguji dengan POSTMAN**
-[![Tonton video](--------------)](------------)
+[![Tonton video](https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png)](https://youtu.be/rTizqxYB2e8)

@@ -271,4 +271,4 @@ Route::prefix('admin')->group(function () {
 ```
 
 ### 06. Menguji dengan postman
-[![Tonton video](https://img.youtube.com/vi/I0yKa4g0i4g/0.jpg)](https://youtu.be/I0yKa4g0i4g)
+[![Tonton video](https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png)](https://youtu.be/VcoHwvQ71hA)
