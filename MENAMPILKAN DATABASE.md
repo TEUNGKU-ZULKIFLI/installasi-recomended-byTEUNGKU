@@ -1,3 +1,5 @@
+# HAL YANG BISA DI PELAJARI SEBELUM MEMULAI MODUL INI [<kbd>BASIC</kbd>](https://github.com/TEUNGKU-ZULKIFLI/installasi-recomended-byTEUNGKU/blob/ce74a4afdc91ea40aaf2d30cb0fa34342efb4694/README.md)
+
 # Untuk membuat sistem yang seusai login menampilkan data dari yang kita design, entah itu format json dan lainnya, tentu dari table database yang kita buat.
 ## Note: Ini merupakan series lanjutan dari [<kbd>SISTEM LOGIN AUTH TOKEN](https://github.com/TEUNGKU-ZULKIFLI/installasi-recomended-byTEUNGKU/blob/8bd95c6a12c54f986b9e504e8cdd1848014b2d56/MEMBUAT%20SISTEM%20LOGIN%20%26%20REGISTER%20LARAVEL%20%26%20JWT.md).
 # ⚠️SANGAT DIMOHON MENGIKUTI TAHAPAN SEBELUMNYA⚠️
