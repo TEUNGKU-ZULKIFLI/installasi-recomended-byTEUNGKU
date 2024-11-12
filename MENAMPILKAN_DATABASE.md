@@ -19,13 +19,13 @@
 
 **membuat file mahasiswas.php di database/migrations/**
    ```bash
-   php artisan migration
+   php artisan make:migration
    ```
    ### dengan nama "create_mahasiswas_table"
 
 **membuat file prodies.php di database/migrations/**
    ```bash
-   php artisan migration
+   php artisan make:migration
    ```
   ### dengan nama "create_prodies_table"
 
