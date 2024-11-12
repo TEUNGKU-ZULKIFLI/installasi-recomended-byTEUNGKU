@@ -1,3 +1,5 @@
+# HAL YANG BISA DI PELAJARI SEBELUM MEMULAI MODUL INI [<kbd>BASIC</kbd>](https://github.com/TEUNGKU-ZULKIFLI/installasi-recomended-byTEUNGKU/blob/ce74a4afdc91ea40aaf2d30cb0fa34342efb4694/README.md)
+
 # Langkah-langkah Menjalankan Laravel di Laradock dengan Custom Domain
 
 **01. Clone repository Laradock**  
