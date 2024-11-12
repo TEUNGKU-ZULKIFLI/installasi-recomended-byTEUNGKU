@@ -22,6 +22,7 @@ Agar memudahkan dalam editing file, buka folder project Laravel di VS Code atau 
 <div align="center">
     <img src="asset/OPEN_VSCode_CMD.gif" width="1000px"/>
 </div>
+
 ## 4. COMMAND PHP ARTISAN
 Berikut adalah daftar lengkap perintah `php artisan` di Laravel, termasuk command yang mungkin jarang digunakan tetapi tersedia di Laravel versi terbaru, termasuk Laravel 11:
 
