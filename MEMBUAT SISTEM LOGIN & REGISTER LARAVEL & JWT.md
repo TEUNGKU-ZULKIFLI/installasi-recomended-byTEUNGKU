@@ -1,4 +1,4 @@
-# HAL YANG BISA DI PELAJARI SEBELUM MEMULAI MODUL INI [<kbd>BASIC</kbd>](https://github.com/TEUNGKU-ZULKIFLI/installasi-recomended-byTEUNGKU/blob/59d6ac28d86b6c81860a530a902672a22c6f1edc/README.md)
+# HAL YANG BISA DI PELAJARI SEBELUM MEMULAI MODUL INI [<kbd>BASIC</kbd>](https://github.com/TEUNGKU-ZULKIFLI/installasi-recomended-byTEUNGKU/blob/main/README.md)
 
 # Untuk membuat sistem login aut token menggunakan Laravel dan JWT (JSON Web Token) di Laravel dengan menggunakan Laradock
 ## Note:"DATA USER & PASSWD DARI FILE database/seeders/UserSeeder.php" disarankan baca, teliti, dan telaah dulu 😊.
