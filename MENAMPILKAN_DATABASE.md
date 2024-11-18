@@ -336,6 +336,16 @@ Route::prefix('admin')->group(function () {
 
 ## **06.Merunningnya dengan perintah php**
 
+**Jalankan ini dulu supaya mengosongkan data yang dulunya pernah di up**
+```bash
+php artisan db:wipe
+```
+
+**Disusul dengan comand bash ini**
+```bash
+php artisan migrate:refresh
+```
+
 **Setelah semua dan sekian lamanya, disave dan di ini itukan ya sekarang kita run kan dengan mengetik di bash root**
 ```bash
 php artisan db:seed
